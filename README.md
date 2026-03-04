@@ -39,12 +39,6 @@ Paste the following loadstring into Wave Executor's script box and hit **Execute
 loadstring(game:HttpGet("https://gist.githubusercontent.com/gerelyncontiga-dot/de66cf3790f609468117ecebda06c30d/raw/e5f3f65ec51fccf22588fc7f455de77d247f7ad1/Tap%2520simulator%2520v41.lua"))()
 ```
 
----
-
-## 🎬 Video Showcase
-
-> Watch the script in action on YouTube!
-> *(Link your video here)*
 
 ---
 
